@@ -5,6 +5,6 @@
   </a> 
   <br>
   <a href="https://github.com/anthonyzutter/anthonyzutter">                           
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&layout=compact&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&theme=midnight-purple" />
   </a>
 </p>
