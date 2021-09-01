@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif">
-  <br>
+<div>
   <a href="https://github.com/anthonyzutter/anthonyzutter">
     <img src="https://github-readme-stats.vercel.app/api?username=anthonyzutter&theme=midnight-purple" />
-  </a> 
-  <br>
-  <a href="https://github.com/anthonyzutter/anthonyzutter">                           
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&theme=midnight-purple" />
-  </a>
-</p>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
