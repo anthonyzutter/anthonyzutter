@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/anthonyzutter/anthonyzutter">
-    <img src="https://github-readme-stats.vercel.app/api?username=anthonyzutter&theme=midnight-purple" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&theme=midnight-purple" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyzutter&theme=midnight-purple" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&theme=midnight-purple" />
 </div>
   
 <div style="display: inline_block"><br>
