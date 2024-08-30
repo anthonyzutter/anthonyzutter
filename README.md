@@ -1,14 +1,25 @@
-<div>
-  <a href="https://github.com/anthonyzutter">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyzutter&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyzutter&layout=compact&langs_count=7&theme=midnight-purple" />
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-  
+
+## Skills
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![AWS](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-web-services&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
+
+
+
+## Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vscode&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple&logoColor=white)
+
+
+## Onde me encontrar
+[![wakatime](https://wakatime.com/badge/user/018cc76f-8b06-4dd8-8f77-28139fbe23d6.svg)](https://wakatime.com/@018cc76f-8b06-4dd8-8f77-28139fbe23d6)
+[![Linkedin](https://img.shields.io/badge/-anthonyzutter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyzutter/)](https://www.linkedin.com/in/anthonyzutter/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thonyzutter@gmail.com)](mailto:thonyzutter@gmail.com)
